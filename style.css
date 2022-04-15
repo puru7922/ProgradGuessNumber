@@ -1,0 +1,25 @@
+.parent{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: auto;
+    width: 400px;
+    margin: 30px auto;
+    padding-bottom: 30px;
+    background-color: antiquewhite;
+}
+.tbl{
+    display: flex;
+    align-items: center;
+}
+h4{
+    height: auto;
+    width: 200px;
+}
+button{
+    width: 90px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: black;
+    color: aliceblue;
+}
